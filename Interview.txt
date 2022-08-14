@@ -1,0 +1,26 @@
+Just a project to learn about microservices and DJANGO/FLASK
+ORM Django, filter, sort, groupby etc.
+Middleware
+SQLAlchaemy
+Admin
+Pagination
+Authentication OAuth2.0
+Command commands in flask / Django
+
+
+GIL Interpretor Lock
+Spawning 
+Concurrent.future Multiprocessing 
+Decorators
+Generators
+Why list is mutable and tuple is immutable.
+
+Pagination 
+Authentication 
+Class variable & Static Variable
+Datetime
+
+
+Multiple inheritance etc.
+Design Pattern 
+Factory , Abstract Factory ,Singleton, 
